@@ -4,15 +4,15 @@
 </p>
 
 <p align="left">
- 🧰 Linguagens: <strong>Javascript</strong>, <strong>Typescript</strong>, <strong>Apex (Salesforce)</strong> e <strong>C</strong>.
+📚 Linguagens: <strong>Javascript</strong>, <strong>Typescript</strong>, <strong>Apex (Salesforce)</strong> e <strong>C</strong>.
 </p>
 
 <p align="left">
- Principais ferramentas: <strong>Node.JS</strong>, <strong>Express<strong>, <strong>React</strong>, <strong>VueJS</strong>, <strong>NextJS</strong> e <strong>Linux</strong>.
+ 🧰 Principais ferramentas: <strong>Node.JS</strong>, <strong>Express<strong>, <strong>React</strong>, <strong>VueJS</strong>, <strong>NextJS</strong> e <strong>Linux</strong>.
 </p>
 
 <p align="left">
- Entre em contato para quaisquer assuntos profissionais: ⤵️
+ 📬 Entre em contato para quaisquer assuntos profissionais: ⤵️
 </p>
 
 <p align="left">
