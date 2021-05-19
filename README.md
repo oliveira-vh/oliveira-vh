@@ -1,5 +1,5 @@
 <p align="left"> 
-  Olá. Me chamo Victor de Oliveira e sou Engenheiro de Computação além de Desenvolvedor Web Full-Stack.<br>
+  Olá. Me chamo Victor de Oliveira e sou Engenheiro de Computação e Desenvolvedor Web Full-Stack.<br>
   Atualmente sou Consultor de CRM Salesforce, além de dev freelancer nas horas vagas.
 </p>
 
