@@ -4,7 +4,7 @@
 </p>
 
 <p align="left">
-📚 Linguagens: <strong>Javascript</strong>, <strong>Typescript</strong>, <strong>Apex (Salesforce)</strong> e <strong>C</strong>.
+📚 Linguagens: <strong>Javascript</strong>, <strong>Typescript</strong>, <strong>Apex (Salesforce)</strong>, PHP e <strong>C</strong>.
 </p>
 
 <p align="left">
