@@ -1,6 +1,6 @@
 <p align="left"> 
  🖥️ Olá. Me chamo Victor de Oliveira. Sou Engenheiro de Computação e Desenvolvedor Web Full-Stack.<br>
-  Atualmente trabalho como Consultor Salesforce, além de web dev freelancer nas horas vagas.
+  Atualmente trabalho como Desenvolvedor Salesforce.
 </p>
 
 <p align="left">
