@@ -1,5 +1,5 @@
 <p align="left"> 
- 🖥️ Computer Engineer and Senior Salesforce Developer from Belém
+ 🖥️ Computer Engineer and Senior Salesforce Developer proudly from the Amazon Rainforest, Belém, Pará, Brazil
 </p>
 
 <p align="left">
